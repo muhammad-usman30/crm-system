@@ -1,57 +1,35 @@
+# CRM Contact System
 
+## 🚀 Live Demo
 
-## Project info
+**Live Application**: [https://crm-contact-system.netlify.app/](https://crm-contact-system.netlify.app/)
 
-**URL**: https://lovable.dev/projects/ecddc718-3012-40cf-b89c-449ad29d12d1
+## 📋 Project Overview
 
-## How can I edit this code?
+A modern Customer Relationship Management (CRM) system built with React and TypeScript. This application helps businesses manage their contacts and customer interactions efficiently.
 
-There are several ways of editing your application.
+**Lovable Project URL**: https://lovable.dev/projects/ecddc718-3012-40cf-b89c-449ad29d12d1
 
-**Use your preferred IDE**
+## 🛠️ Technologies Used
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Frontend Framework**: React 18
+- **Language**: TypeScript
+- **Build Tool**: Vite
+- **Styling**: 
+  - Tailwind CSS
+  - shadcn/ui components
+- **Deployment**: Netlify
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📦 Getting Started
 
-Follow these steps:
+### Prerequisites
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- Node.js (version 16 or higher)
+- npm or yarn package manager
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Installation
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/muhammad-usman30/crm-system.git
+   cd crm-system
